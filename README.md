@@ -14,7 +14,7 @@ This is a simple JavaScript project to learn Git and JavaScript.
    * Name your repository (e.g., tim-js), add a description if you like, and click "Create repository".
 1. __Initialize the local repository__:
    ```sh
-   cd c:/repos/tim-js
+   cd /c/repos/tim-js
    git init
    git add .
    git commit -m "Initial commit"
