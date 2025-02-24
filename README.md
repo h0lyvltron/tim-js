@@ -23,7 +23,7 @@ This is a simple JavaScript project to learn Git and JavaScript.
    ```sh
    git remote add origin https://github.com/your-username/tim-js.git
    ```
-__Push your local repository to GitHub__:
+1. __Push your local repository to GitHub__:
    ```sh
    git push -u origin main
    ```
