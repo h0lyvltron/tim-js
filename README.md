@@ -1,6 +1,6 @@
 # My JavaScript Project
 
-This is a simple JavaScript project to learn Git and JavaScript.
+This is a simple JavaScript project to learn Git and JavaScript. It will include rudimentary explanation and instruction for someone new to Git, GitHub, and development in general. Everything is being documented in this manner to solidify my understanding as I teach myself and learn.
 
 ## Getting Started
 
